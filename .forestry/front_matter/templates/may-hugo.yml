@@ -1,0 +1,8 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: 1 Первая запись в hugo
+  name: 1_pervaya_zapis_v_hugo
+  description: 1 Первая запись в hugo
