@@ -7,5 +7,6 @@ fields:
   name: 1_pervaya_zapis_v_hugo
   description: 1 Первая запись в hugo
 pages:
+- content/a-vot-i-vtoroj-post.md
 - content/etot-hugo....md
 - content/-1-zagolovok.md
