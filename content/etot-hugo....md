@@ -1,7 +1,6 @@
 +++
 1_pervaya_zapis_v_hugo = "Я хотел написать об ужасном и великом Hugo!"
 date = "2018-06-24T06:59:47+00:00"
-draft = true
 title = "Этот Hugo..."
 
 +++
